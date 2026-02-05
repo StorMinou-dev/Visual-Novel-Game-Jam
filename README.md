@@ -53,20 +53,25 @@ character portrayed by a bird in a cage.
 
 
 **Parallax Background Effect**  
-The project includes visual elements to enhance immersion :  
+The project includes visual elements to enhance immersion,
+A background parallax system is used to give depth to scenes,  
+creating subtle movement between foreground and background layers.  
 
 ![parallax-ezgif com-video-to-gif-converter(1)](https://github.com/user-attachments/assets/cdf13927-8758-4b54-ad79-81545bb71d63)<br>
 
 
 
-A background parallax system is used to give depth to scenes,  
-creating subtle movement between foreground and background layers.  
+
 
 **Assets**  
-All visual assets were created by the artists involved in the project :  
+All visual assets were created by the artists involved in the project,  
+here are some quick examples :  
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/138e6e19-1ca3-40c0-98f7-24940c1a553a" />
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/8df98adc-b224-4d12-8fbb-b5d39fffd0f6" /><br>
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/138e6e19-1ca3-40c0-98f7-24940c1a553a" /><br>
+<img width="200" height="175" alt="image" src="https://github.com/user-attachments/assets/8df98adc-b224-4d12-8fbb-b5d39fffd0f6" /><br>
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/aa66dab3-c94b-478c-b628-8d58d765b478" /><br>
+
+
 
 
 
